@@ -1,8 +1,13 @@
 DeltaInductionsWebDev
 =====================
 
-Name:Abhishek Mahadevan Raju\n
-Branch:Production Engineering\n
-Roll No.:114112002\n
+Name:Abhishek Mahadevan Raju
+
+
+Branch:Production Engineering
+
+
+Roll No.:114112002
+
 
 Delta Inductions
